@@ -29,10 +29,12 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^4.24.1",
+    "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
     "@hookform/resolvers": "^3.3.1",
     "@libsql/client": "^0.3.5",
     "@t3-oss/env-nextjs": "^0.6.1",
     "drizzle-orm": "^0.28.6",
+    "fortawesome": "0.0.1-security",
     "moment": "^2.29.4",
     "next": "^13.5.3",
     "next-seo": "^6.1.0",
@@ -40,6 +42,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.47.0",
+    "react-select": "^5.8.0",
     "sharp": "^0.32.6",
     "socket.io-client": "^4.7.2",
     "zod": "^3.22.2"
